@@ -11,3 +11,13 @@ de 3 meses
 -FRAMEWORK:
 -IDE:
 -CVS:
+
+## AWQUITECTURA 
+La arquitectura ddel proyecto  sera 
+
+## METODOLOGIA
+La metodologia para el desarrollo de proyecto de la aplicacion sera SCRUM, en 4 srpints 
+-[] strint 1
+-[] strint 2
+-[] strint 3
+-[] strint 4
